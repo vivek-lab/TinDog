@@ -155,6 +155,7 @@ p {
 @media (max-width: 1028px) {
   #title {
     padding: 7% 15%;
+    text-align: center;
   }
 
   .title-image {
