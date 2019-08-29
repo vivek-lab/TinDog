@@ -144,16 +144,13 @@ p {
   padding: 3% 2%;
 }
 
-/* CTA Section */
-
-
 /* Footer Section */
 .social-icon {
   margin: 20px 10px;
 }
 
 @media (max-width: 1028px) {
-  #title {
+  #title .container-fluid {
     padding: 7% 15%;
     text-align: center;
   }
